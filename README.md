@@ -1,4 +1,4 @@
-                                                                    HEADS OR TAILS GAME
+                                                                HEADS OR TAILS GAME
   🏛️  TEMPLATE OF HEADS OR TAILS GAME  🏛️ 
   
   <div align="center">
